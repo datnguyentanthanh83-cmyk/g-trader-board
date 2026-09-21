@@ -1,0 +1,25 @@
+{
+  "asof": "2026-09-21T15:55:00+07:00",
+  "count": 15,
+  "added": ["DGW", "GAS"],
+  "removed": [],
+  "mua": ["AAA", "APH", "BSR", "BVH", "DGW", "DPM", "GAS", "HHP", "HID", "HII", "PVT", "SHI", "SSB", "VOS", "VPB"],
+  "rows": [
+    {"symbol": "DGW", "signal": "MUA", "date": "20260921", "time": "15:55"},
+    {"symbol": "GAS", "signal": "MUA", "date": "20260921", "time": "15:55"},
+    {"symbol": "AAA", "signal": "MUA", "entry": "7.34", "stop": "7.05", "target": "7.68", "date": "20260915"},
+    {"symbol": "APH", "signal": "MUA", "entry": "6.66", "stop": "6.16", "target": "6.97", "date": "20260916"},
+    {"symbol": "BSR", "signal": "MUA", "entry": "29.72", "stop": "27.52", "target": "31.18", "date": "20260916"},
+    {"symbol": "BVH", "signal": "MUA", "entry": "67.24", "stop": "62.46", "target": "70.87", "date": "20260915"},
+    {"symbol": "DPM", "signal": "MUA", "entry": "22.78", "stop": "21.68", "target": "23.88", "date": "20260916"},
+    {"symbol": "HHP", "signal": "MUA", "entry": "17.17", "stop": "16.33", "target": "17.67", "date": "20260909"},
+    {"symbol": "HID", "signal": "MUA", "entry": "5.62", "stop": "5.13", "target": "5.94", "date": "20260917"},
+    {"symbol": "HII", "signal": "MUA", "entry": "10.6", "stop": "9.31", "target": "11.85", "date": "20260916"},
+    {"symbol": "PVT", "signal": "MUA", "entry": "22.55", "stop": "20.64", "target": "23.75", "date": "20260915"},
+    {"symbol": "SHI", "signal": "MUA", "entry": "14.55", "stop": "14.15", "target": "14.75", "date": "20260917"},
+    {"symbol": "SSB", "signal": "MUA", "entry": "24", "stop": "21.95", "target": "25.3", "date": "20260918"},
+    {"symbol": "VOS", "signal": "MUA", "entry": "11.85", "stop": "11.19", "target": "12.62", "date": "20260918"},
+    {"symbol": "VPB", "signal": "MUA", "entry": "28.17", "stop": "27.13", "target": "29.13", "date": "20260917"}
+  ],
+  "source": "GUI last_state dump 15:55 21/09/2026"
+}
