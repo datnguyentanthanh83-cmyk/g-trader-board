@@ -1,9 +1,9 @@
 {
-  "asof": "2026-09-22T09:25:00+07:00",
-  "count": 12,
-  "added": ["DCM"],
-  "removed": ["BVH", "DPM", "GAS", "VPB"],
-  "mua": ["AAA", "APH", "BSR", "DCM", "DGW", "HHP", "HID", "HII", "PVT", "SHI", "SSB", "VOS"],
+  "asof": "2026-09-22T09:41:19+07:00",
+  "count": 11,
+  "added": [],
+  "removed": ["SHI"],
+  "mua": ["AAA", "APH", "BSR", "DCM", "DGW", "HHP", "HID", "HII", "PVT", "SSB", "VOS"],
   "rows": [
     {"symbol": "AAA", "signal": "MUA"},
     {"symbol": "APH", "signal": "MUA"},
@@ -14,7 +14,6 @@
     {"symbol": "HID", "signal": "MUA"},
     {"symbol": "HII", "signal": "MUA"},
     {"symbol": "PVT", "signal": "MUA"},
-    {"symbol": "SHI", "signal": "MUA"},
     {"symbol": "SSB", "signal": "MUA"},
     {"symbol": "VOS", "signal": "MUA"}
   ],
