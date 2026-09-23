@@ -1,12 +1,11 @@
 {
-  "asof": "2026-09-23T10:44:00+07:00",
-  "count": 11,
+  "asof": "2026-09-23T13:16:42+07:00",
+  "count": 10,
   "added": [],
   "removed": [
-    "DPR"
+    "AAA"
   ],
   "mua": [
-    "AAA",
     "APH",
     "BSR",
     "DCM",
@@ -19,10 +18,6 @@
     "VOS"
   ],
   "rows": [
-    {
-      "symbol": "AAA",
-      "signal": "MUA"
-    },
     {
       "symbol": "APH",
       "signal": "MUA"
