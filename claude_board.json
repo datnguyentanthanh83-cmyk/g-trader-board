@@ -1,168 +1,78 @@
 {
-  "asof": "2026-09-22T14:55:00+07:00",
-  "count": 13,
+  "asof": "2026-09-23T09:25:00+07:00",
+  "count": 12,
   "added": [
+    "DPR",
+    "PVP"
+  ],
+  "removed": [
+    "DCL",
+    "HHP",
     "SHI"
   ],
-  "removed": [],
   "mua": [
     "AAA",
     "APH",
     "BSR",
-    "DCL",
     "DCM",
     "DGW",
-    "HHP",
+    "DPR",
     "HID",
     "HII",
+    "PVP",
     "PVT",
-    "SHI",
     "SSB",
     "VOS"
   ],
   "rows": [
     {
       "symbol": "AAA",
-      "signal": "MUA",
-      "entry": "7.51",
-      "stop": "7.21",
-      "target": "7.78",
-      "last": "7.65 (14:55 22/09/2026)",
-      "date": "20260921",
-      "industry": "Hóa chất / Nhựa, cao su & sợi",
-      "time": "10:02"
+      "signal": "MUA"
     },
     {
       "symbol": "APH",
-      "signal": "MUA",
-      "entry": "7.28",
-      "stop": "6.92",
-      "target": "7.62",
-      "last": "7.32 (14:55 22/09/2026)",
-      "date": "20260921",
-      "industry": "Hàng & Dịch vụ Công nghiệp / Containers & Đóng gói",
-      "time": "09:26"
+      "signal": "MUA"
     },
     {
       "symbol": "BSR",
-      "signal": "MUA",
-      "entry": "31",
-      "stop": "29",
-      "target": "32.4",
-      "last": "31.35 (14:55 22/09/2026)",
-      "date": "20260921",
-      "industry": "Dầu khí / Sản xuất và Khai thác dầu khí",
-      "time": "09:26"
-    },
-    {
-      "symbol": "DCL",
-      "signal": "MUA",
-      "entry": "45.17",
-      "stop": "42.37",
-      "target": "47.03",
-      "last": "45.9 (14:55 22/09/2026)",
-      "date": "20260922",
-      "industry": "Dược phẩm / Dược phẩm",
-      "time": "09:56"
+      "signal": "MUA"
     },
     {
       "symbol": "DCM",
-      "signal": "MUA",
-      "entry": "33.35",
-      "stop": "31.7",
-      "target": "35",
-      "last": "33.95 (14:55 22/09/2026)",
-      "date": "20260916",
-      "industry": "Hóa chất / Sản phẩm hóa dầu, Nông dược & Hóa chất khác",
-      "time": "09:46"
+      "signal": "MUA"
     },
     {
       "symbol": "DGW",
-      "signal": "MUA",
-      "entry": "44.97",
-      "stop": "42.14",
-      "target": "48.07",
-      "last": "45.1 (14:55 22/09/2026)",
-      "date": "20260921",
-      "industry": "Bán lẻ / Thiết bị điện tử",
-      "time": "09:26"
+      "signal": "MUA"
     },
     {
-      "symbol": "HHP",
-      "signal": "MUA",
-      "entry": "17.17",
-      "stop": "16.33",
-      "target": "17.67",
-      "last": "17.25 (14:55 22/09/2026)",
-      "date": "20260909",
-      "industry": "Tài nguyên Cơ bản / Sản xuất giấy"
+      "symbol": "DPR",
+      "signal": "MUA"
     },
     {
       "symbol": "HID",
-      "signal": "MUA",
-      "entry": "5.62",
-      "stop": "5.13",
-      "target": "5.94",
-      "last": "5.33 (14:55 22/09/2026)",
-      "date": "20260917",
-      "industry": "Xây dựng và Vật liệu / Xây dựng",
-      "time": "09:25"
+      "signal": "MUA"
     },
     {
       "symbol": "HII",
-      "signal": "MUA",
-      "entry": "10.6",
-      "stop": "9.31",
-      "target": "11.85",
-      "last": "11.2 (14:55 22/09/2026)",
-      "date": "20260916",
-      "industry": "Hóa chất / Nhựa, cao su & sợi",
-      "time": "09:19"
+      "signal": "MUA"
+    },
+    {
+      "symbol": "PVP",
+      "signal": "MUA"
     },
     {
       "symbol": "PVT",
-      "signal": "MUA",
-      "entry": "24.05",
-      "stop": "22.5",
-      "target": "24.6",
-      "last": "24.1 (14:55 22/09/2026)",
-      "date": "20260922",
-      "industry": "Hàng & Dịch vụ Công nghiệp / Vận tải Thủy",
-      "time": "09:25"
-    },
-    {
-      "symbol": "SHI",
-      "signal": "MUA",
-      "entry": "14.33",
-      "stop": "14.08",
-      "target": "14.83",
-      "last": "14.4 (14:55 22/09/2026)",
-      "date": "20260922",
-      "industry": "Tài nguyên Cơ bản / Thép và sản phẩm thép",
-      "time": "09:25"
+      "signal": "MUA"
     },
     {
       "symbol": "SSB",
-      "signal": "MUA",
-      "entry": "20.25",
-      "stop": "16.69",
-      "target": "23",
-      "last": "20.9 (14:55 22/09/2026)",
-      "date": "20260922",
-      "industry": "Ngân hàng / Ngân hàng",
-      "time": "09:25"
+      "signal": "MUA"
     },
     {
       "symbol": "VOS",
-      "signal": "MUA",
-      "entry": "12.32",
-      "stop": "11.63",
-      "target": "12.82",
-      "last": "12.4 (14:55 22/09/2026)",
-      "date": "20260922",
-      "industry": "Hàng & Dịch vụ Công nghiệp / Vận tải Thủy",
-      "time": "09:25"
+      "signal": "MUA"
     }
   ],
-  "source": "Claude GUI signal_history 14:55 22/09/2026 (Entry/SL/TP Bảng Tín Hiệu)"
+  "source": "email dump"
 }
