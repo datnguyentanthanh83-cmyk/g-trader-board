@@ -1,16 +1,15 @@
 {
-  "asof": "2026-09-23T13:36:48+07:00",
-  "count": 11,
-  "added": [
+  "asof": "2026-09-23T14:02:00+07:00",
+  "count": 10,
+  "added": [],
+  "removed": [
     "DPR"
   ],
-  "removed": [],
   "mua": [
     "APH",
     "BSR",
     "DCM",
     "DGW",
-    "DPR",
     "HID",
     "HII",
     "PVP",
@@ -33,10 +32,6 @@
     },
     {
       "symbol": "DGW",
-      "signal": "MUA"
-    },
-    {
-      "symbol": "DPR",
       "signal": "MUA"
     },
     {
