@@ -1,10 +1,11 @@
 {
-  "asof": "2026-09-24T10:22:03+07:00",
-  "count": 12,
-  "added": [
-    "HII"
+  "asof": "2026-09-24T10:48:23+07:00",
+  "count": 10,
+  "added": [],
+  "removed": [
+    "HII",
+    "PET"
   ],
-  "removed": [],
   "mua": [
     "APH",
     "BSR",
@@ -12,8 +13,6 @@
     "DGW",
     "DPR",
     "HID",
-    "HII",
-    "PET",
     "PVP",
     "PVT",
     "VJC",
@@ -42,14 +41,6 @@
     },
     {
       "symbol": "HID",
-      "signal": "MUA"
-    },
-    {
-      "symbol": "HII",
-      "signal": "MUA"
-    },
-    {
-      "symbol": "PET",
       "signal": "MUA"
     },
     {
