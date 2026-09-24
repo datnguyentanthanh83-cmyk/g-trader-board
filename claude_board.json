@@ -1,15 +1,9 @@
 {
-  "asof": "2026-09-24T09:33:00+07:00",
-  "count": 12,
-  "added": [
-    "DPR",
-    "PET",
-    "VJC",
-    "VPB"
-  ],
+  "asof": "2026-09-24T09:55:00+07:00",
+  "count": 11,
+  "added": [],
   "removed": [
-    "HII",
-    "SSB"
+    "VPB"
   ],
   "mua": [
     "APH",
@@ -22,8 +16,7 @@
     "PVP",
     "PVT",
     "VJC",
-    "VOS",
-    "VPB"
+    "VOS"
   ],
   "rows": [
     {
@@ -68,10 +61,6 @@
     },
     {
       "symbol": "VOS",
-      "signal": "MUA"
-    },
-    {
-      "symbol": "VPB",
       "signal": "MUA"
     }
   ],
