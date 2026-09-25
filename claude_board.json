@@ -1,17 +1,19 @@
 {
-  "asof": "2026-09-25T10:27:00+07:00",
-  "count": 13,
+  "asof": "2026-09-25T10:53:29+07:00",
+  "count": 14,
   "added": [
-    "PET"
+    "DGW",
+    "DPM"
   ],
   "removed": [
-    "AAA"
+    "DCL"
   ],
   "mua": [
     "APH",
     "BSR",
-    "DCL",
     "DCM",
+    "DGW",
+    "DPM",
     "DPR",
     "HID",
     "PET",
@@ -32,11 +34,15 @@
       "signal": "MUA"
     },
     {
-      "symbol": "DCL",
+      "symbol": "DCM",
       "signal": "MUA"
     },
     {
-      "symbol": "DCM",
+      "symbol": "DGW",
+      "signal": "MUA"
+    },
+    {
+      "symbol": "DPM",
       "signal": "MUA"
     },
     {
