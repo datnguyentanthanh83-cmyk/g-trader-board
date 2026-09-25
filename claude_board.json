@@ -1,18 +1,14 @@
 {
-  "asof": "2026-09-25T10:53:29+07:00",
-  "count": 14,
-  "added": [
-    "DGW",
-    "DPM"
-  ],
+  "asof": "2026-09-25T11:19:00+07:00",
+  "count": 13,
+  "added": [],
   "removed": [
-    "DCL"
+    "DGW"
   ],
   "mua": [
     "APH",
     "BSR",
     "DCM",
-    "DGW",
     "DPM",
     "DPR",
     "HID",
@@ -35,10 +31,6 @@
     },
     {
       "symbol": "DCM",
-      "signal": "MUA"
-    },
-    {
-      "symbol": "DGW",
       "signal": "MUA"
     },
     {
