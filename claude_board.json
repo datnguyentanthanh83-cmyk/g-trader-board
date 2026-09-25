@@ -1,17 +1,16 @@
 {
-  "asof": "2026-09-25T13:26:10+07:00",
-  "count": 14,
-  "added": [
-    "AAA"
+  "asof": "2026-09-25T13:52:13+07:00",
+  "count": 12,
+  "added": [],
+  "removed": [
+    "DPM",
+    "DPR"
   ],
-  "removed": [],
   "mua": [
     "AAA",
     "APH",
     "BSR",
     "DCM",
-    "DPM",
-    "DPR",
     "HID",
     "PET",
     "PVP",
@@ -26,8 +25,6 @@
     {"symbol": "APH", "signal": "MUA"},
     {"symbol": "BSR", "signal": "MUA"},
     {"symbol": "DCM", "signal": "MUA"},
-    {"symbol": "DPM", "signal": "MUA"},
-    {"symbol": "DPR", "signal": "MUA"},
     {"symbol": "HID", "signal": "MUA"},
     {"symbol": "PET", "signal": "MUA"},
     {"symbol": "PVP", "signal": "MUA"},
