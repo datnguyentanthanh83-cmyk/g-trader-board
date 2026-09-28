@@ -1,17 +1,13 @@
 {
-  "asof": "2026-09-28T10:45:42+07:00",
-  "count": 11,
-  "added": [
-    "BVH",
-    "VJC"
-  ],
+  "asof": "2026-09-28T13:34:49+07:00",
+  "count": 10,
+  "added": [],
   "removed": [
-    "HAH"
+    "BVH"
   ],
   "mua": [
     "APH",
     "BSR",
-    "BVH",
     "DCL",
     "DCM",
     "PET",
@@ -24,7 +20,6 @@
   "rows": [
     {"symbol": "APH", "signal": "MUA"},
     {"symbol": "BSR", "signal": "MUA"},
-    {"symbol": "BVH", "signal": "MUA"},
     {"symbol": "DCL", "signal": "MUA"},
     {"symbol": "DCM", "signal": "MUA"},
     {"symbol": "PET", "signal": "MUA"},
