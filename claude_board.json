@@ -1,11 +1,12 @@
 {
-  "asof": "2026-09-29T10:39:31+07:00",
-  "count": 11,
-  "added": [],
-  "removed": ["ASP"],
-  "mua": ["APH", "BSR", "BVH", "DCL", "DCM", "HAH", "PET", "PVP", "PVT", "VJC", "VOS"],
+  "asof": "2026-09-29T10:47:22+07:00",
+  "count": 12,
+  "added": ["ASP"],
+  "removed": [],
+  "mua": ["APH", "ASP", "BSR", "BVH", "DCL", "DCM", "HAH", "PET", "PVP", "PVT", "VJC", "VOS"],
   "rows": [
     {"symbol": "APH", "signal": "MUA"},
+    {"symbol": "ASP", "signal": "MUA"},
     {"symbol": "BSR", "signal": "MUA"},
     {"symbol": "BVH", "signal": "MUA"},
     {"symbol": "DCL", "signal": "MUA"},
