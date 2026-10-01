@@ -1,9 +1,9 @@
 {
-  "asof": "2026-10-01T14:06:00+07:00",
-  "count": 11,
-  "added": [],
-  "removed": ["DPR"],
-  "mua": ["BSR", "BVH", "DCL", "FRT", "HAH", "MSB", "MSN", "PET", "PVP", "PVT", "VOS"],
+  "asof": "2026-10-01T14:45:00+07:00",
+  "count": 12,
+  "added": ["PHR"],
+  "removed": [],
+  "mua": ["BSR", "BVH", "DCL", "FRT", "HAH", "MSB", "MSN", "PET", "PHR", "PVP", "PVT", "VOS"],
   "rows": [
     {"symbol": "BSR", "signal": "MUA"},
     {"symbol": "BVH", "signal": "MUA"},
@@ -13,6 +13,7 @@
     {"symbol": "MSB", "signal": "MUA"},
     {"symbol": "MSN", "signal": "MUA"},
     {"symbol": "PET", "signal": "MUA"},
+    {"symbol": "PHR", "signal": "MUA"},
     {"symbol": "PVP", "signal": "MUA"},
     {"symbol": "PVT", "signal": "MUA"},
     {"symbol": "VOS", "signal": "MUA"}
