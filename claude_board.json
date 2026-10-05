@@ -1,11 +1,12 @@
 {
-  "asof": "2026-10-05T09:37:53+07:00",
-  "count": 10,
-  "added": ["MSN"],
+  "asof": "2026-10-05T09:54:59+07:00",
+  "count": 11,
+  "added": ["CDC"],
   "removed": [],
-  "mua": ["BVH", "DCL", "FRT", "HAH", "MSB", "MSN", "MWG", "PET", "PVP", "VTO"],
+  "mua": ["BVH", "CDC", "DCL", "FRT", "HAH", "MSB", "MSN", "MWG", "PET", "PVP", "VTO"],
   "rows": [
     {"symbol": "BVH", "signal": "MUA"},
+    {"symbol": "CDC", "signal": "MUA"},
     {"symbol": "DCL", "signal": "MUA"},
     {"symbol": "FRT", "signal": "MUA"},
     {"symbol": "HAH", "signal": "MUA"},
