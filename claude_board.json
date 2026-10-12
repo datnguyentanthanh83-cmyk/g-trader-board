@@ -1,9 +1,9 @@
 {
-  "asof": "2026-10-12T09:26:00+07:00",
-  "count": 16,
+  "asof": "2026-10-12T09:49:51+07:00",
+  "count": 15,
   "added": [],
-  "removed": ["BVH"],
-  "mua": ["BFC", "CDC", "DCL", "DGW", "FRT", "HAG", "MSB", "MSN", "NT2", "PVP", "TDP", "TRC", "VGC", "VOS", "VPB", "VTO"],
+  "removed": ["VTO"],
+  "mua": ["BFC", "CDC", "DCL", "DGW", "FRT", "HAG", "MSB", "MSN", "NT2", "PVP", "TDP", "TRC", "VGC", "VOS", "VPB"],
   "rows": [
     {"symbol": "BFC", "signal": "MUA"},
     {"symbol": "CDC", "signal": "MUA"},
@@ -19,8 +19,7 @@
     {"symbol": "TRC", "signal": "MUA"},
     {"symbol": "VGC", "signal": "MUA"},
     {"symbol": "VOS", "signal": "MUA"},
-    {"symbol": "VPB", "signal": "MUA"},
-    {"symbol": "VTO", "signal": "MUA"}
+    {"symbol": "VPB", "signal": "MUA"}
   ],
   "source": "email dump"
 }
