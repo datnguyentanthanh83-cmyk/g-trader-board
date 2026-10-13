@@ -1,15 +1,16 @@
 {
-  "asof": "2026-10-13T14:21:51+07:00",
+  "asof": "2026-10-13T14:29:00+07:00",
   "count": 13,
   "added": [
+    "TRC"
+  ],
+  "removed": [
     "DGW"
   ],
-  "removed": [],
   "mua": [
     "BFC",
     "CDC",
     "DCL",
-    "DGW",
     "HDB",
     "MSB",
     "MSN",
@@ -17,6 +18,7 @@
     "NT2",
     "PVP",
     "TDP",
+    "TRC",
     "VPB",
     "VTO"
   ],
@@ -31,10 +33,6 @@
     },
     {
       "symbol": "DCL",
-      "signal": "MUA"
-    },
-    {
-      "symbol": "DGW",
       "signal": "MUA"
     },
     {
@@ -63,6 +61,10 @@
     },
     {
       "symbol": "TDP",
+      "signal": "MUA"
+    },
+    {
+      "symbol": "TRC",
       "signal": "MUA"
     },
     {
