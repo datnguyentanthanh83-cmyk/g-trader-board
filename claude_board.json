@@ -1,13 +1,13 @@
 {
-  "asof": "2026-10-13T09:45:00+07:00",
+  "asof": "2026-10-13T09:53:00+07:00",
   "count": 13,
-  "added": [],
-  "removed": ["BVH", "CDC"],
-  "mua": ["BFC", "DCL", "DGW", "FRT", "MSB", "MSN", "MWG", "NT2", "PVP", "TDP", "TRC", "VPB", "VTO"],
+  "added": ["CDC"],
+  "removed": ["DGW"],
+  "mua": ["BFC", "CDC", "DCL", "FRT", "MSB", "MSN", "MWG", "NT2", "PVP", "TDP", "TRC", "VPB", "VTO"],
   "rows": [
     {"symbol": "BFC", "signal": "MUA"},
+    {"symbol": "CDC", "signal": "MUA"},
     {"symbol": "DCL", "signal": "MUA"},
-    {"symbol": "DGW", "signal": "MUA"},
     {"symbol": "FRT", "signal": "MUA"},
     {"symbol": "MSB", "signal": "MUA"},
     {"symbol": "MSN", "signal": "MUA"},
