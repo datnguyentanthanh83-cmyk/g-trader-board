@@ -1,21 +1,79 @@
 {
-  "asof": "2026-10-13T13:56:00+07:00",
-  "count": 11,
-  "added": [],
-  "removed": ["CDC", "HDB"],
-  "mua": ["BFC", "DCL", "DGW", "MSB", "MSN", "MWG", "NT2", "PVP", "TDP", "VPB", "VTO"],
+  "asof": "2026-10-13T14:04:56+07:00",
+  "count": 13,
+  "added": [
+    "CDC",
+    "HDB"
+  ],
+  "removed": [],
+  "mua": [
+    "BFC",
+    "CDC",
+    "DCL",
+    "DGW",
+    "HDB",
+    "MSB",
+    "MSN",
+    "MWG",
+    "NT2",
+    "PVP",
+    "TDP",
+    "VPB",
+    "VTO"
+  ],
   "rows": [
-    {"symbol": "BFC", "signal": "MUA"},
-    {"symbol": "DCL", "signal": "MUA"},
-    {"symbol": "DGW", "signal": "MUA"},
-    {"symbol": "MSB", "signal": "MUA"},
-    {"symbol": "MSN", "signal": "MUA"},
-    {"symbol": "MWG", "signal": "MUA"},
-    {"symbol": "NT2", "signal": "MUA"},
-    {"symbol": "PVP", "signal": "MUA"},
-    {"symbol": "TDP", "signal": "MUA"},
-    {"symbol": "VPB", "signal": "MUA"},
-    {"symbol": "VTO", "signal": "MUA"}
+    {
+      "symbol": "BFC",
+      "signal": "MUA"
+    },
+    {
+      "symbol": "CDC",
+      "signal": "MUA"
+    },
+    {
+      "symbol": "DCL",
+      "signal": "MUA"
+    },
+    {
+      "symbol": "DGW",
+      "signal": "MUA"
+    },
+    {
+      "symbol": "HDB",
+      "signal": "MUA"
+    },
+    {
+      "symbol": "MSB",
+      "signal": "MUA"
+    },
+    {
+      "symbol": "MSN",
+      "signal": "MUA"
+    },
+    {
+      "symbol": "MWG",
+      "signal": "MUA"
+    },
+    {
+      "symbol": "NT2",
+      "signal": "MUA"
+    },
+    {
+      "symbol": "PVP",
+      "signal": "MUA"
+    },
+    {
+      "symbol": "TDP",
+      "signal": "MUA"
+    },
+    {
+      "symbol": "VPB",
+      "signal": "MUA"
+    },
+    {
+      "symbol": "VTO",
+      "signal": "MUA"
+    }
   ],
   "source": "email dump"
 }
