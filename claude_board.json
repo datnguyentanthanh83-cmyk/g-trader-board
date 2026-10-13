@@ -1,17 +1,14 @@
 {
-  "asof": "2026-10-13T14:29:00+07:00",
-  "count": 13,
-  "added": [
-    "TRC"
-  ],
+  "asof": "2026-10-13T14:37:00+07:00",
+  "count": 12,
+  "added": [],
   "removed": [
-    "DGW"
+    "HDB"
   ],
   "mua": [
     "BFC",
     "CDC",
     "DCL",
-    "HDB",
     "MSB",
     "MSN",
     "MWG",
@@ -33,10 +30,6 @@
     },
     {
       "symbol": "DCL",
-      "signal": "MUA"
-    },
-    {
-      "symbol": "HDB",
       "signal": "MUA"
     },
     {
