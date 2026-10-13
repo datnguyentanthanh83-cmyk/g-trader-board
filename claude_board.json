@@ -1,25 +1,25 @@
 {
-  "asof": "2026-10-12T13:23:00+07:00",
+  "asof": "2026-10-13T09:22:00+07:00",
   "count": 15,
-  "added": [],
-  "removed": ["VTO"],
-  "mua": ["BFC", "CDC", "DCL", "DGW", "FRT", "HAG", "MSB", "MSN", "NT2", "PVP", "TDP", "TRC", "VGC", "VOS", "VPB"],
+  "added": ["BVH", "MWG", "VTO"],
+  "removed": ["HAG", "VGC", "VOS"],
+  "mua": ["BFC", "BVH", "CDC", "DCL", "DGW", "FRT", "MSB", "MSN", "MWG", "NT2", "PVP", "TDP", "TRC", "VPB", "VTO"],
   "rows": [
     {"symbol": "BFC", "signal": "MUA"},
+    {"symbol": "BVH", "signal": "MUA"},
     {"symbol": "CDC", "signal": "MUA"},
     {"symbol": "DCL", "signal": "MUA"},
     {"symbol": "DGW", "signal": "MUA"},
     {"symbol": "FRT", "signal": "MUA"},
-    {"symbol": "HAG", "signal": "MUA"},
     {"symbol": "MSB", "signal": "MUA"},
     {"symbol": "MSN", "signal": "MUA"},
+    {"symbol": "MWG", "signal": "MUA"},
     {"symbol": "NT2", "signal": "MUA"},
     {"symbol": "PVP", "signal": "MUA"},
     {"symbol": "TDP", "signal": "MUA"},
     {"symbol": "TRC", "signal": "MUA"},
-    {"symbol": "VGC", "signal": "MUA"},
-    {"symbol": "VOS", "signal": "MUA"},
-    {"symbol": "VPB", "signal": "MUA"}
+    {"symbol": "VPB", "signal": "MUA"},
+    {"symbol": "VTO", "signal": "MUA"}
   ],
   "source": "email dump"
 }
