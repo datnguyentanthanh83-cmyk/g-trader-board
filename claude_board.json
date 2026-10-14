@@ -1,16 +1,13 @@
 {
-  "asof": "2026-10-14T09:52:00+07:00",
-  "count": 10,
-  "added": [
-    "PVT"
-  ],
+  "asof": "2026-10-14T10:01:24+07:00",
+  "count": 8,
+  "added": [],
   "removed": [
-    "VIB"
+    "CDC",
+    "DCL"
   ],
   "mua": [
     "BFC",
-    "CDC",
-    "DCL",
     "MSB",
     "NT2",
     "PVP",
@@ -22,14 +19,6 @@
   "rows": [
     {
       "symbol": "BFC",
-      "signal": "MUA"
-    },
-    {
-      "symbol": "CDC",
-      "signal": "MUA"
-    },
-    {
-      "symbol": "DCL",
       "signal": "MUA"
     },
     {
