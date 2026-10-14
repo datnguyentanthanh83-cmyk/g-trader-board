@@ -1,9 +1,11 @@
 {
-  "asof": "2026-10-14T09:44:00+07:00",
+  "asof": "2026-10-14T09:52:00+07:00",
   "count": 10,
-  "added": [],
-  "removed": [
+  "added": [
     "PVT"
+  ],
+  "removed": [
+    "VIB"
   ],
   "mua": [
     "BFC",
@@ -12,8 +14,8 @@
     "MSB",
     "NT2",
     "PVP",
+    "PVT",
     "TDP",
-    "VIB",
     "VPB",
     "VTO"
   ],
@@ -43,11 +45,11 @@
       "signal": "MUA"
     },
     {
-      "symbol": "TDP",
+      "symbol": "PVT",
       "signal": "MUA"
     },
     {
-      "symbol": "VIB",
+      "symbol": "TDP",
       "signal": "MUA"
     },
     {
