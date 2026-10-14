@@ -1,18 +1,17 @@
 {
-  "asof": "2026-10-14T10:08:00+07:00",
-  "count": 8,
+  "asof": "2026-10-14T10:39:00+07:00",
+  "count": 9,
   "added": [
-    "CDC"
-  ],
-  "removed": [
     "PVT"
   ],
+  "removed": [],
   "mua": [
     "BFC",
     "CDC",
     "MSB",
     "NT2",
     "PVP",
+    "PVT",
     "TDP",
     "VPB",
     "VTO"
@@ -36,6 +35,10 @@
     },
     {
       "symbol": "PVP",
+      "signal": "MUA"
+    },
+    {
+      "symbol": "PVT",
       "signal": "MUA"
     },
     {
