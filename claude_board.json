@@ -1,19 +1,23 @@
 {
-  "asof": "2026-10-14T14:52:00+07:00",
-  "count": 8,
-  "added": [],
+  "asof": "2026-10-15T09:35:29+07:00",
+  "count": 7,
+  "added": [
+    "GSP",
+    "HDB"
+  ],
   "removed": [
-    "PVT"
+    "CDC",
+    "PVP",
+    "VTO"
   ],
   "mua": [
     "BFC",
-    "CDC",
+    "GSP",
+    "HDB",
     "MSB",
     "NT2",
-    "PVP",
     "TDP",
-    "VPB",
-    "VTO"
+    "VPB"
   ],
   "rows": [
     {
@@ -21,7 +25,11 @@
       "signal": "MUA"
     },
     {
-      "symbol": "CDC",
+      "symbol": "GSP",
+      "signal": "MUA"
+    },
+    {
+      "symbol": "HDB",
       "signal": "MUA"
     },
     {
@@ -33,19 +41,11 @@
       "signal": "MUA"
     },
     {
-      "symbol": "PVP",
-      "signal": "MUA"
-    },
-    {
       "symbol": "TDP",
       "signal": "MUA"
     },
     {
       "symbol": "VPB",
-      "signal": "MUA"
-    },
-    {
-      "symbol": "VTO",
       "signal": "MUA"
     }
   ],
