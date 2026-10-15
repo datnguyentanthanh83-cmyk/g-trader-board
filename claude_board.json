@@ -1,13 +1,12 @@
 {
-  "asof": "2026-10-15T14:02:54+07:00",
-  "count": 7,
-  "added": [
+  "asof": "2026-10-15T14:12:00+07:00",
+  "count": 6,
+  "added": [],
+  "removed": [
     "HAG"
   ],
-  "removed": [],
   "mua": [
     "BFC",
-    "HAG",
     "HDB",
     "MSB",
     "NT2",
@@ -17,10 +16,6 @@
   "rows": [
     {
       "symbol": "BFC",
-      "signal": "MUA"
-    },
-    {
-      "symbol": "HAG",
       "signal": "MUA"
     },
     {
