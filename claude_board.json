@@ -1,13 +1,12 @@
 {
-  "asof": "2026-10-15T13:07:00+07:00",
-  "count": 7,
+  "asof": "2026-10-15T13:36:00+07:00",
+  "count": 6,
   "added": [],
   "removed": [
-    "PVP"
+    "GSP"
   ],
   "mua": [
     "BFC",
-    "GSP",
     "HDB",
     "MSB",
     "NT2",
@@ -17,10 +16,6 @@
   "rows": [
     {
       "symbol": "BFC",
-      "signal": "MUA"
-    },
-    {
-      "symbol": "GSP",
       "signal": "MUA"
     },
     {
