@@ -1,27 +1,23 @@
 {
-  "asof": "2026-10-15T13:45:00+07:00",
+  "asof": "2026-10-15T13:53:00+07:00",
   "count": 6,
   "added": [
-    "HAG"
+    "TDP"
   ],
   "removed": [
-    "TDP"
+    "HAG"
   ],
   "mua": [
     "BFC",
-    "HAG",
     "HDB",
     "MSB",
     "NT2",
+    "TDP",
     "VPB"
   ],
   "rows": [
     {
       "symbol": "BFC",
-      "signal": "MUA"
-    },
-    {
-      "symbol": "HAG",
       "signal": "MUA"
     },
     {
@@ -34,6 +30,10 @@
     },
     {
       "symbol": "NT2",
+      "signal": "MUA"
+    },
+    {
+      "symbol": "TDP",
       "signal": "MUA"
     },
     {
