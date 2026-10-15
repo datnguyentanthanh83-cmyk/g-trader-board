@@ -1,18 +1,14 @@
 {
-  "asof": "2026-10-15T09:35:29+07:00",
-  "count": 7,
+  "asof": "2026-10-15T09:43:00+07:00",
+  "count": 8,
   "added": [
-    "GSP",
-    "HDB"
+    "HAG"
   ],
-  "removed": [
-    "CDC",
-    "PVP",
-    "VTO"
-  ],
+  "removed": [],
   "mua": [
     "BFC",
     "GSP",
+    "HAG",
     "HDB",
     "MSB",
     "NT2",
@@ -26,6 +22,10 @@
     },
     {
       "symbol": "GSP",
+      "signal": "MUA"
+    },
+    {
+      "symbol": "HAG",
       "signal": "MUA"
     },
     {
