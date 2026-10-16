@@ -1,21 +1,18 @@
 {
-  "asof": "2026-10-16T09:21:00+07:00",
-  "count": 9,
-  "added": [
-    "CDC",
+  "asof": "2026-10-16T09:48:00+07:00",
+  "count": 7,
+  "added": [],
+  "removed": [
     "HAG",
-    "HID"
+    "TDP"
   ],
-  "removed": [],
   "mua": [
     "BFC",
     "CDC",
-    "HAG",
     "HDB",
     "HID",
     "MSB",
     "NT2",
-    "TDP",
     "VPB"
   ],
   "rows": [
@@ -25,10 +22,6 @@
     },
     {
       "symbol": "CDC",
-      "signal": "MUA"
-    },
-    {
-      "symbol": "HAG",
       "signal": "MUA"
     },
     {
@@ -45,10 +38,6 @@
     },
     {
       "symbol": "NT2",
-      "signal": "MUA"
-    },
-    {
-      "symbol": "TDP",
       "signal": "MUA"
     },
     {
