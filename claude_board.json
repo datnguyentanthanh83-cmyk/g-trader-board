@@ -1,12 +1,11 @@
 {
-  "asof": "2026-10-16T11:25:53+07:00",
-  "count": 7,
+  "asof": "2026-10-16T14:09:00+07:00",
+  "count": 6,
   "added": [],
   "removed": [
-    "HAG"
+    "BFC"
   ],
   "mua": [
-    "BFC",
     "CDC",
     "HDB",
     "HID",
@@ -15,10 +14,6 @@
     "VPB"
   ],
   "rows": [
-    {
-      "symbol": "BFC",
-      "signal": "MUA"
-    },
     {
       "symbol": "CDC",
       "signal": "MUA"
