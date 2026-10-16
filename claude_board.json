@@ -1,13 +1,14 @@
 {
-  "asof": "2026-10-16T10:59:58+07:00",
-  "count": 7,
-  "added": [],
-  "removed": [
+  "asof": "2026-10-16T11:07:00+07:00",
+  "count": 8,
+  "added": [
     "HAG"
   ],
+  "removed": [],
   "mua": [
     "BFC",
     "CDC",
+    "HAG",
     "HDB",
     "HID",
     "MSB",
@@ -21,6 +22,10 @@
     },
     {
       "symbol": "CDC",
+      "signal": "MUA"
+    },
+    {
+      "symbol": "HAG",
       "signal": "MUA"
     },
     {
